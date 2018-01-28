@@ -1,12 +1,12 @@
 import React, { Component, PropTypes } from 'react';
 
-class MultiModulesDemo extends Component {
+class web-1528 extends Component {
 	
   render(){
 	  
     return (
-      <div className='FranklyModulesDemo'>
-	      <h2 className='demo_text'>mod1: {this.props.text}</h2>
+      <div className='web-1528'>
+	      <h2 className='demo_text'>nadia1: {this.props.text}</h2>
       </div>
     );
 	  
